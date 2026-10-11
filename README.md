@@ -38,11 +38,13 @@ Product revenue: The Regency Cakestand and Paper Craft, Little Birdie products g
 Country performance: The United Kingdom generated substantially more revenue than any other country, contributing £9,025,222.08. The Netherlands ranked second, generating £285,446.34.
 
 Methodology
+
 Cleaned and analyzed the dataset using Python and Pandas.
 Created visualizations using Matplotlib.
 Loaded the cleaned data into SQLite and analyzed it using SQL.
 
 Visualizations
+
 ![Monthly Revenue](images/monthly_revenue.png)
 
 ![Top Products by Revenue](images/top_products.png)
