@@ -3,3 +3,6 @@ data/
 
 # Ignore the SQLite database
 *.db
+
+# Ignore macOS system file that stores folder-view preferences
+.DS_Store
