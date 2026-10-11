@@ -1,0 +1,5 @@
+# Ignore the original dataset
+data/
+
+# Ignore the SQLite database
+*.db
