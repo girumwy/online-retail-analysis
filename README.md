@@ -45,8 +45,14 @@ Loaded the cleaned data into SQLite and analyzed it using SQL.
 
 Visualizations
 
+Monthly Revenue
+
 ![Monthly Revenue](images/monthly_revenue.png)
 
+Top Products by Revenue
+
 ![Top Products by Revenue](images/top_products.png)
+
+Revenue by Country
 
 ![Revenue by Country](images/revenue_by_country.png)
