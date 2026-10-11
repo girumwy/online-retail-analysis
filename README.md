@@ -30,6 +30,7 @@ How was revenue distributed across countries?
 Python and Pandas were used for data cleaning, exploration, and visualization. SQL was used to query the cleaned dataset and examine transaction and customer metrics.
 
 Key Findings
+
 Revenue over time: Revenue tended to be lower during the earlier months of the year and into the summer, reaching a low of £523,631.89. Revenue then generally increased as the holiday season approached, peaking at £1,509,496.33 in November.
 Product revenue: The Regency Cakestand and Paper Craft, Little Birdie products generated substantially more revenue than most of the other top-performing products. However, the revenue figures among the remaining top products were more closely grouped. The top 10 products accounted for 9.43% of total revenue.
 Country performance: The United Kingdom generated substantially more revenue than any other country, contributing £9,025,222.08. The Netherlands ranked second, generating £285,446.34.
