@@ -1,7 +1,9 @@
 Project Overview
+
 This project analyzes online retail transaction data to identify sales trends, top-performing products, and revenue distribution across countries. Using Python and Pandas, I cleaned and transformed the dataset, calculated revenue, and created visualizations to explore sales patterns. I also used SQLite and SQL to query the cleaned data and investigate transaction and customer metrics.
 
 Dataset
+
 The dataset was obtained from the UCI Machine Learning Repository's Online Retail dataset. It contains transactional data from a UK-based online retailer between December 2010 and December 2011.
 Each record represents a product line within an invoice and includes information such as invoice number, product code, product description, quantity, invoice date, unit price, customer ID, and country. The dataset was used to analyze revenue trends, product performance, and sales distribution across countries.
 Source: https://archive.ics.uci.edu/dataset/352/online+retail 
