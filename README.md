@@ -12,6 +12,7 @@ Source: https://archive.ics.uci.edu/dataset/352/online+retail
 Tools Used - Python, Pandas, SQLite/SQL, Matplotlib.
 
 Data Cleaning
+
 Removed cancelled transactions, identified by invoice numbers beginning with "C" and negative quantities.
 Removed records with a unit price of zero from the revenue analysis.
 Converted invoice dates to datetime format to support time-based analysis.
@@ -20,6 +21,7 @@ Retained records with missing customer IDs because they were still useful for an
 Excluded non-merchandise entries, such as postage and manual adjustments, from product-level rankings while retaining them in the underlying dataset.
 
 Analysis
+
 The analysis focused on the following questions:
 How did revenue change over time?
 Which products generated the most revenue?
